@@ -52,3 +52,12 @@ img {
   font-size: larger;
   font-weight: 700;
 }
+
+a {
+  text-decoration: underline;
+  color: white;
+}
+
+.footer {
+  padding-top: 10px;
+}
